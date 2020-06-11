@@ -552,7 +552,7 @@ return [
             'value_per_locale' => '用于每个国家地区',
             'value_per_channel' => '用于每个频道',
             'is_filterable' => '用于前端导航布局',
-            'is_configurable' => '是否可配置',
+            'is_configurable' => '用于创建可配置商品',
             'admin_name' => '后台显示名称',
             'is_visible_on_front' => '在前端可见',
             'swatch_type' => '示例类型',
