@@ -610,7 +610,7 @@ return [
             'meta_description' => '网站描述',
             'meta_keywords' => '网站关键词',
             'image' => '图片',
-            'filterable-attributes' => '可滤过的属性',
+            'filterable-attributes' => '可筛选的属性',
             'attributes' => '属性',
         ]
     ],
